@@ -10,7 +10,7 @@ Nesse projeto foi desenvolvido uma API e um banco de dados para a produção de 
           
     #### SERVER VARS
     NODE_ENV=development
-    API_PORT=3000
+    API_PORT=3009
 
     #### DATABASE VARS
     MYSQL_HOST=localhost
