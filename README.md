@@ -8,7 +8,7 @@ Nesse projeto foi desenvolvido uma API e um banco de dados para a produção de 
   <li>digite o comando npm install</li>
   <li>crie um arquivo .env na raiz com os seguintes parâmetros:</li>
     <ul>
-      #### SERVER VARS
+    #### SERVER VARS
     NODE_ENV=development
     API_PORT=3000
 
