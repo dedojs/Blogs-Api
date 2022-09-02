@@ -8,6 +8,7 @@ Nesse projeto foi desenvolvido uma API e um banco de dados para a produção de 
   <li>digite o comando npm install</li>
   <li>crie um arquivo .env na raiz com os seguintes parâmetros:</li>
     <ul>
+      
     #### SERVER VARS
     NODE_ENV=development
     API_PORT=3000
@@ -21,6 +22,7 @@ Nesse projeto foi desenvolvido uma API e um banco de dados para a produção de 
 
     #### SECRECT VARS
     JWT_SECRET=suaSenhaSecreta
+      
     </ul>
   <li>rode o comando npm run migration para criar as tabelas do banco</li>
   <li>rode o comando npm run seed, para povoar as tabelas do banco</li>
