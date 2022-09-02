@@ -24,10 +24,8 @@ Nesse projeto foi desenvolvido uma API e um banco de dados para a produção de 
     JWT_SECRET=suaSenhaSecreta
       
     </ul>
-  <li>rode o comando npm run migration para criar as tabelas do banco</li>
-  <li>rode o comando npm run seed, para povoar as tabelas do banco</li>
-  <li>rode o comando npm run dev para iniciar o servidor</li>
-  <li>acesse http://localhost:3006/docs/ no navegador para visualizar a documentação</li>
+  
+  <li>acesse http://localhost:3009/doc/ no navegador para visualizar a documentação</li>
 </ol>
 <br>
 <br>
